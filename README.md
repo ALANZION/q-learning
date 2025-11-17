@@ -57,6 +57,7 @@ def q_learning(env,
 <img width="913" height="172" alt="image" src="https://github.com/user-attachments/assets/9c187cb3-bb46-4ff5-8323-72b167b876a4" />
 
 <img width="1260" height="720" alt="image" src="https://github.com/user-attachments/assets/2be68c0d-5c35-49f0-9bae-4f07ad852a06" />
+
 <img width="1600" height="656" alt="image" src="https://github.com/user-attachments/assets/cfd55c72-fe04-4804-9b82-8d4f165c4109" />
 
 <img width="1600" height="659" alt="image" src="https://github.com/user-attachments/assets/55999afa-cba6-48d3-8cff-4b712793b813" />
